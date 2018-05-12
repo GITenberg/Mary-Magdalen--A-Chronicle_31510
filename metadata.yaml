@@ -1,0 +1,34 @@
+_repo: Mary-Magdalen--A-Chronicle_31510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltus, Edgar
+    alias: Saltus, Edgar Evertson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '1417'
+    url: http://www.gutenberg.org/2009/agents/1417
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
+description: A fascinating fictionalisation of the life of the biblical figure Mary
+  Magdalene, written by American writer Edgar Saltus.
+gutenberg_issued: '2010-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Palestine -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+- !lcsh 'Christian women saints -- Fiction'
+- !lcsh 'Bible. New Testament -- History of Biblical events -- Fiction'
+- !lcsh 'Mary Magdalene, Saint -- Fiction'
+title: 'Mary Magdalen: A Chronicle'
+url: http://www.gutenberg.org/ebooks/31510
